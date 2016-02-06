@@ -3,7 +3,7 @@
 ###About
 
 Crawler built with [Scrapy](http://scrapy.org/). Scrapes [linkedin job directory](https://www.linkedin.com/jobs2/directory/) and gets all available jobs.
-Also uses MySQL database. Sample of 5000+ jobs can be viewed in linkedin_jobs.csv file.
+Also uses MySQL database. Sample of 5000+ jobs can be viewed in `linkedin_jobs.csv` file.
 
 ###Screenshot
 
