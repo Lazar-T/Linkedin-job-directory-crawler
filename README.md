@@ -1,11 +1,11 @@
-# Linkedin-job-direcotry-crawler
+# Linkedin-job-directory-crawler
 
-###About
+### About
 
 Crawler built with [Scrapy](http://scrapy.org/). Scrapes [linkedin job directory](https://www.linkedin.com/jobs2/directory/) and gets all available jobs.
 Also uses MySQL database. Sample of 5000+ jobs can be viewed in `linkedin_jobs.csv` file.
 
-###Screenshot
+### Screenshot
 
 ![Screenshot](http://i.imgur.com/2TOAPwZ.png)
 
